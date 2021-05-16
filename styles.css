@@ -1,0 +1,19 @@
+body {
+  background-color: #7fffd4;
+  color: #005e96;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+  margin-top: 250px;
+  width: 100%;
+  font-size: 70px;
+}
+
+.field {
+  margin-right: 20px;
+  padding: 10px;
+  border: 1px #005e96 solid;
+  border-radius: 40px;
+}
